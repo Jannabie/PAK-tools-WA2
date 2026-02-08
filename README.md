@@ -332,11 +332,6 @@ It helps others find the tool and motivates continued development.
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
 
----
-
-<div align="center">
-
-**Made with ❤️ for the White Album 2 modding community**
 
 [⬆ Back to Top](#kcap-repacker-for-white-album-2)
 
