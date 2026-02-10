@@ -1,4 +1,4 @@
-# KCAP Repacker for White Album 2
+# KCAP Unpack/Repacker for White Album 2
 
 A tool to repack extracted KCAP (`.pak`) archives for White Album 2 modding. Designed to work alongside **exkizpak**.
 
