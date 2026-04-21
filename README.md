@@ -21,7 +21,6 @@ Proses ekstraksi ditangani oleh **exkizpak** (karya asmodean), sementara untuk r
 | `kcap_repack_v1.1.py` | Script Python untuk merepack folder hasil ekstrak kembali ke `.pak` |
 | `repack_v1.1_interactive.bat` | Batch script interaktif — drag-and-drop folder lalu ketik nama output |
 | `repack_simple.bat` | Batch script sederhana tanpa input interaktif |
-| `files.zip` | File-file tambahan pendukung |
 
 ---
 
